@@ -1,0 +1,14 @@
+{
+  "name": "loty",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/philipp-spiess/loty",
+  "author": "Philipp Spiess",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.5"
+  }
+}
